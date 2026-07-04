@@ -15,3 +15,5 @@ SkillForge AI is a personalized learning recommendation platform built using Str
 - FastAPI
 - Pandas
 - SQLite
+  
+🔗 Live App: https://skillforge-ai-dbxpaapffocu3r8jjwry3a.streamlit.app/
