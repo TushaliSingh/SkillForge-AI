@@ -21,8 +21,9 @@ SkillForge AI is a personalized learning platform that helps users discover rele
 
 ---
 
-## 🔗 Live Demo
-https://skillforge-ai-dbxpaapffocu3r8jjwry3a.streamlit.app/
+## 🔗 Links
+- Live App (Frontend): https://skillforge-ai-dbxpaapffocu3r8jjwry3a.streamlit.app/
+- Backend API (FastAPI): https://skillforge-ai-rg44.onrender.com
 
 ---
 
