@@ -1,0 +1,9 @@
+models/
+*.pkl
+
+__pycache__/
+*.pyc
+users.db
+.env
+.vscode/
+.idea/
