@@ -35,10 +35,19 @@ https://skillforge-ai-dbxpaapffocu3r8jjwry3a.streamlit.app/
 ---
 
 ## Screenshots
+-Login
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b09adaf0-04ce-455d-bb68-17e9937385f2" />
+
+-Searching for Courses
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8472416d-40ea-40b7-be25-8019f58ccdfb" />
+
+-Recommendations
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/77eb6700-718d-476a-871b-77af942074d0" />
+
+-Chosen Video played 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f33a2821-e814-4ee4-bb16-4fd0c2f98578" />
+
+-Learning history
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8be8fb13-d57a-4c8a-b1e2-0dc69adec4c0" />
 
 
