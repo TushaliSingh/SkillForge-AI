@@ -190,7 +190,7 @@ if st.button("🚀 Get Recommendations"):
     auth.save_history(st.session_state.user, selected)
 
     response = requests.get(
-        "http://127.0.0.1:8000/recommend",
+        "https://skillforge-ai-rg44.onrender.com/recommend",
         params={"course_name": selected}
     )
 
